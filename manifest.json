@@ -1,0 +1,10 @@
+{
+	"id": "file-tree-plugin",
+	"name": "File Tree Generator",
+	"version": "1.0.0",
+	"minAppVersion": "0.12.0",
+	"description": "A plugin to generate a file tree of child pages with crelative paths or Obsidian URLs within the current node.",
+	"author": "Michael Kalus",
+	"authorUrl": "https://www.kalus.me",
+	"isDesktopOnly": false
+}
